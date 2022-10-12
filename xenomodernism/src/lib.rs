@@ -46,7 +46,7 @@ impl HttpServer for XmActor {
         </body>
         </html>
             "#,
-            cat.images
+            "xm", cat.images
         );
 
         Ok(HttpResponse {
