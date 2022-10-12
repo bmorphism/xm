@@ -1,12 +1,12 @@
 [package]
-name = "xkcdgenerator"
+name = "xenomodenism"
 version = "0.1.0"
 authors = [ "Cosmonic Team" ]
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
-name = "xkcdgenerator"
+name = "xenomodenism"
 
 [dependencies]
 futures = "0.3"
